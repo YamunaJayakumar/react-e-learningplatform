@@ -9,8 +9,6 @@ A modern and interactive e-learning platform designed to help learners gain real
 | Frontend | React / Tailwind CSS |
 
 
----
 ##Demo[https://react-e-learningplatform.vercel.app/]
-## 📸 Screenshots
 
 
